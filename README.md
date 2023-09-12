@@ -9,7 +9,10 @@ Workout Buddy is a cutting-edge fitness application designed to elevate your wor
  . Also JWT Authorisation has been implemented to protect authorise users and protect API routes.
 ## Output
 
-
+# Signup and Login for users
+![b](https://github.com/ap766/WorkoutBuddy/assets/79255079/676ef739-5916-4226-a558-99eccd8f52b6)
+# Add new workout by entering the title,loads and reps fields. Also you could delete a workout.
+![a](https://github.com/ap766/WorkoutBuddy/assets/79255079/e485955c-e931-4b84-9e84-a7ae06841fb6)
 
 ## Improvements
 + Adding workouts through speech
