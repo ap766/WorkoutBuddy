@@ -17,4 +17,22 @@ Workout Buddy is a cutting-edge fitness application designed to elevate your wor
 ## Improvements
 + Adding workouts through speech
 + Visual Analysis 
-  
+
+## How to run?
+```
+create .env checking out the .env-sample file and fill the fields.
+```
+```
+cd backend
+npm install
+npm run dev
+```
+Backend would be up and running!
+
+```
+cd frontend
+npm install
+npm run start
+```
+Frontend would be up and running!
+
